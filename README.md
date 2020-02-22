@@ -10,7 +10,7 @@
 Now you can run `node` or `npm` in your terminal!
 
 <p align="center">
-  <a target="_blank" href="https://nodejs.org/en/docs/guides/">
+  <a href="https://nodejs.org/en/docs/guides/" target="_blank">
     <img
       alt="Node.js"
       src="https://nodejs.org/static/images/logo-light.svg"
