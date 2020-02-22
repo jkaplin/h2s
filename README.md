@@ -16,4 +16,3 @@
 `cd h2s`
 ## and enter the following line in the terminal
 `./run`
->>>>>>> bc84878883a82b545f65421aee51e049a4c026eb
