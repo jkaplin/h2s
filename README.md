@@ -6,9 +6,9 @@
 `cd h2s`
 ## And enter the following line:
 `./run`
-## Congratulations!
-Now you can run `node` or `npm` in your terminal!
+## Close and Reopen your terminal to use the `node` command!
 
+## Congratulations!
 <p align="center">
     <img
       alt="Node.js"
