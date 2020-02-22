@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "alias node=\"`pwd`/bin/node\"" > ~/.zshrc
+echo "PATH=\"\$PATH:`pwd`/bin\"" > ~/.zshrc
