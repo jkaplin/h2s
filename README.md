@@ -4,7 +4,7 @@
 `git clone https://github.com/jkaplin/h2s.git`
 ## Move inside the cloned repo:
 `cd h2s`
-## And enter the following line:
+## Enter the following line:
 `./run`
 ## Close and Reopen your terminal to use the `node` command!
 
