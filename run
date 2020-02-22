@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "alias node=\"`pwd`/bin/node\"" > ~/.zshrc
