@@ -1,7 +1,7 @@
 
 # NodeJS for HackHighSchool
 ## Clone this repo:
-`git clone https://github.com/jkaplin/h2s.git`
+`git clone https://github.com/jkaplin/node.git`
 ## Move inside the cloned repo:
 `cd node`
 ## Enter the following line:
