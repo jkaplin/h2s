@@ -1,12 +1,12 @@
 
 # NodeJS for HackHighSchool
-## clone this repo
+## Clone this repo:
 `git clone https://github.com/jkaplin/h2s.git`
-## move inside the cloned repo
+## Move inside the cloned repo:
 `cd h2s`
-## and enter the following line in the terminal
+## And enter the following line:
 `./run`
-## congratulations
+## Congratulations!
 Now you can run `node` or `npm` in your terminal!
 
 <p align="center">
