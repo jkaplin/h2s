@@ -1,5 +1,5 @@
 
-# Follow these steps to install NodeJS
+# NodeJS for HackHighSchool
 ## clone this repo
 `git clone https://github.com/jkaplin/h2s.git`
 ## move inside the cloned repo
