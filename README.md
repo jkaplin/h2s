@@ -8,7 +8,6 @@
 `./run`
 ## Close and Reopen your terminal to use the `node` command!
 
-## Congratulations!
 <p align="center">
     <img
       alt="Node.js"
