@@ -6,10 +6,6 @@
 `cd h2s`
 ## and enter the following line in the terminal
 `./run`
-
-## and enter the following line in the terminal
-`./run`
-
 ## congratulations
 Now you can run `node` or `npm` in your terminal!
 
