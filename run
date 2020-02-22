@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "alias node=\"`pwd`/bin/node\"" > ~/.zshrc
 echo "\n alias npm=\"`pwd`/bin/npm\"" >> ~/.zshrc
-alias node=\"`pwd`/bin/node
-alias npm=\"`pwd`/bin/npm
+alias node="`pwd`/bin/node"
+alias npm="`pwd`/bin/npm"
