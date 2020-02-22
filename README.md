@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="https://nodejs.org/">
     <img
@@ -592,3 +593,12 @@ Other keys used to sign some previous releases:
 [OpenJS Foundation]: http://openjs.foundation/
 [Working Groups]: https://github.com/nodejs/TSC/blob/master/WORKING_GROUPS.md
 [Strategic Initiatives]: https://github.com/nodejs/TSC/blob/master/Strategic-Initiatives.md
+=======
+# h2s
+## clone this repo
+`git clone https://github.com/jkaplin/h2s.git`
+## move inside the cloned repo
+`cd h2s`
+## and enter the following line in the terminal
+`./run`
+>>>>>>> bc84878883a82b545f65421aee51e049a4c026eb
